@@ -1,0 +1,16 @@
+{
+  "name": "votingapp",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "bla"
+  },
+  "author": "sadman",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.5.4",
+    "web3": "github:ethereum/web3.js"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,11 @@
+1. Install NodeJS
+2. run
+npm install ethereumjs-testrpc web3
+3. Install solidity as programming language for blockchain smart contracts
+it will be used for two purpose. 1. return total votes 2. increment vote for a candidate
+
+npm install solc
+
+4. Install web3
+npm install -g node-gyp
+npm install web3@1.0.0-beta.35 --save (this one at project directory)
